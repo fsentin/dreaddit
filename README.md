@@ -1,6 +1,6 @@
 University of Zagreb, Faculty of Electrical Engineering and Computing
 
-## Stress Analysis in Social Media
+## Stress Detection in Social Media
 
 ##### Fani Sentinella-Jerbić, Dorian Smoljan, Vladimir Rzaev, 2022
 
